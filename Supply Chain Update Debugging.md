@@ -3,7 +3,7 @@
 Debug security software update has old lib/vulnerable_utils.py. Navigating first to http://10.128.170.15:5003
 
 ## Tools used
-- KaliLinux
+- Kali Linux
 - curl
 - JSON
 
